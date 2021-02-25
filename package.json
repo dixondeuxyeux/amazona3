@@ -5,12 +5,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "cd frontend && npm install && npm run build" ,
+    "build": "cd frontend && npm install && npm run build",
     "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dixondeuxyeux/amazona-app.git"
+    "url": "git+https://github.com/dixondeuxyeux/amazona3.git"
   },
   "author": "",
   "license": "ISC",
